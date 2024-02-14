@@ -17,7 +17,8 @@ int main(){
     {
        cout << "Factorial of " << number << " = " << factorial;
     }
-    
+   
+
    }
 
     return 0;
