@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-// Print Solid rectangle.
+// Print Solid rectangle pattern.
 
 int main(){
 
