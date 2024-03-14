@@ -41,7 +41,7 @@ int main(){
     // cin>>marks;
     for(int i=0; i<=100; i++){
         char grade = getGrade(marks);
-        cout<<"Grade for marks: "<<i<<"is"<<grade<<endl;
+        cout<<"Grade for marks: "<<i<<" is "<<grade<<endl;
     }
     
 
