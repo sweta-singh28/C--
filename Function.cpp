@@ -12,9 +12,18 @@ void printName(){
 
 }
 
+
+void printNumber(int num){
+    cout<<num<<endl;
+}
+
 int main(){
 
     //function call
-    printName();
+    // printName();
+
+
+    int a = 5;
+    printNumber(a);
     return 0;
 }
