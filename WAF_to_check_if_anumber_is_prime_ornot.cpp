@@ -19,6 +19,6 @@ int main(){
     cin>>n;
 
     string finalResult = getPrime(n);
-    cout<<"The given number is: "<<finalResult<<endl;
+    cout<<"The given number is: "<<finalResult<<endl;  
     return 0;
 }
