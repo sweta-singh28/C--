@@ -22,7 +22,7 @@ bool isPrime(int num) {
 
 int main() {
     int number;
-    cout << "Enter an integer: ";
+    cout << "Enter an integer:";
     cin >> number;
 
     if (isPrime(number)) {
