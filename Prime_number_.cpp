@@ -26,7 +26,7 @@ int main() {
     cin >> number;
 
     if (isPrime(number)) {
-        cout << number << " is a prime number." << endl;
+        cout << number << " is a prime number. " << endl;
     } else {
         cout << number << " is not a prime number." << endl;
     }
