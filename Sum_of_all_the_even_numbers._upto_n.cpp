@@ -20,7 +20,7 @@ int main(){
     cout<<"Enter the number: "<<endl;
     cin>>n;
     int finalSum = getEvenSum(n);
-    cout<<"The sum of all the even number upto "<<n<<" is "<<finalSum<<endl;
+    cout<<"The sum of all the even number upto "<<n<<" is: "<<finalSum<<endl;
 
 
     return 0;
